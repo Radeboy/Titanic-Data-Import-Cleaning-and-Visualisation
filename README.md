@@ -4,3 +4,4 @@ Only accepts excel, csv or json files.
 ensure that the column names align with the code.
 create an object for the file.
 call each method as necessary.
+The code was written using colab so adjust according to your environment.
